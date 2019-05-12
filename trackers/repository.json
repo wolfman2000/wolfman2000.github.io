@@ -9,7 +9,7 @@
       "flags": [ "map", "pins" ],
       "required_app_version": "2.5.0.0",
       "uid": "soulblazer-wolfman",
-      "link": "https://wolfman2000.github.io/trackers/soulblazer-wolfman.zip",
+      "link": "https://wolfman2000.github.io/trackers/soulblazer_wolfman.zip",
       "variants": [
         {
           "name": "Item & Map Tracker",
