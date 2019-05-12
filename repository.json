@@ -1,0 +1,26 @@
+{
+  "name": "Wolfman2000's EmoTracker Packages",
+  "packages": [
+    {
+      "name": "Soul Blazer Rando Tracker",
+      "author": "Wolfman2000",
+      "game_name": "Soul Blazer Randomizer",
+      "version": "1.0.0.0",
+      "flags": [ "map", "pins" ],
+      "required_app_version": "2.5.0.0",
+      "uid": "soulblazer-wolfman",
+      "link": "https://wolfman2000.github.io/trackers/soulblazer-wolfman.zip",
+      "variants": [
+        {
+          "name": "Item & Map Tracker",
+          "flags": [ "map", "pins" ]
+        },
+        {
+          "name": "Item Only Tracker",
+          "flags": []
+        }
+      ]
+    }
+  ]
+}
+
