@@ -5,11 +5,11 @@
       "name": "Soul Blazer Rando Tracker",
       "author": "Wolfman2000",
       "game_name": "Soul Blazer Randomizer",
-      "version": "1.0.1.0",
+      "version": "1.0.2.0",
       "flags": [ "map", "pins" ],
       "required_app_version": "2.3.5.6",
       "uid": "soulblazer-wolfman",
-      "link": "https://wolfman2000.github.io/trackers/soulblazer_wolfman.zip",
+      "link": "https://wolfman2000.github.io/trackers/soulblazer-wolfman.zip",
       "variants": [
         {
           "name": "Item & Map Tracker",
