@@ -5,9 +5,9 @@
       "name": "Soul Blazer Rando Tracker",
       "author": "Wolfman2000",
       "game_name": "Soul Blazer Randomizer",
-      "version": "2.0.0.0",
+      "version": "2.1.0.0",
       "flags": [ "map", "pins", "autotracker" ],
-      "required_app_version": "2.3.5.6",
+      "required_app_version": "2.3.7.2",
       "uid": "soulblazer-wolfman",
       "link": "https://wolfman2000.github.io/trackers/soulblazer-wolfman.zip",
       "variants": [
@@ -26,7 +26,11 @@
         {
           "name": "Item (Equipment) Only Tracker",
           "flags": [ "autotracker" ]
-        }
+        },
+		{
+		  "name": "Item (Skarsnik) Only Tracker",
+		  "flags": [ "autotracker" ]
+		}
       ]
     }
   ]
