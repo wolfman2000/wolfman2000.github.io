@@ -1,12 +1,19 @@
-<!doctype HTML>
+<!doctype html>
 <html>
   <head>
-    <title>Hello all</title>
+    <meta charset="UTF-8" />
+    <base href="/" />
+    <title>Lanky Tracker for DK 64 Rando</title>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:"
+    />
+    <script type="module" crossorigin src="./assets/index-DoWaKQrp.js"></script>
+    <link rel="stylesheet" crossorigin href="./assets/index-DoX4i7Gi.css">
   </head>
+
   <body>
-    <h1>Hello all</h1>
-    <p>This page contains resources meant for third party programs. They will be accessed via various APIs and are not meant to be downloaded directly by web viewing consumers.</p>
-    <p>I will advise that you head to <a href="https://github.com/wolfman2000/">my repositories</a> directly instead if you came here from the web.</p>
+    <div id="root"></div>
   </body>
 </html>
-
